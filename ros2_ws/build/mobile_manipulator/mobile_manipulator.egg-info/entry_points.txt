@@ -1,3 +1,0 @@
-[console_scripts]
-move_arm = mobile_manipulator.move_arm:main
-wasd_teleop = mobile_manipulator.wasd_teleop:main
